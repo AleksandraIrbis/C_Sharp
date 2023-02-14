@@ -1,0 +1,15 @@
+C:\Users\Aleks\Desktop\c-sharp\1402\bin\Debug\net7.0\1402.exe
+C:\Users\Aleks\Desktop\c-sharp\1402\bin\Debug\net7.0\1402.deps.json
+C:\Users\Aleks\Desktop\c-sharp\1402\bin\Debug\net7.0\1402.runtimeconfig.json
+C:\Users\Aleks\Desktop\c-sharp\1402\bin\Debug\net7.0\1402.dll
+C:\Users\Aleks\Desktop\c-sharp\1402\bin\Debug\net7.0\1402.pdb
+C:\Users\Aleks\Desktop\c-sharp\1402\obj\Debug\net7.0\1402.csproj.AssemblyReference.cache
+C:\Users\Aleks\Desktop\c-sharp\1402\obj\Debug\net7.0\1402.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleks\Desktop\c-sharp\1402\obj\Debug\net7.0\1402.AssemblyInfoInputs.cache
+C:\Users\Aleks\Desktop\c-sharp\1402\obj\Debug\net7.0\1402.AssemblyInfo.cs
+C:\Users\Aleks\Desktop\c-sharp\1402\obj\Debug\net7.0\1402.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\Desktop\c-sharp\1402\obj\Debug\net7.0\1402.dll
+C:\Users\Aleks\Desktop\c-sharp\1402\obj\Debug\net7.0\refint\1402.dll
+C:\Users\Aleks\Desktop\c-sharp\1402\obj\Debug\net7.0\1402.pdb
+C:\Users\Aleks\Desktop\c-sharp\1402\obj\Debug\net7.0\1402.genruntimeconfig.cache
+C:\Users\Aleks\Desktop\c-sharp\1402\obj\Debug\net7.0\ref\1402.dll
