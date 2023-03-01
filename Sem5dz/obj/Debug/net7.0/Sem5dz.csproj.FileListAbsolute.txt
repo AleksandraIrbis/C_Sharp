@@ -1,0 +1,15 @@
+C:\Users\Aleks\Desktop\c-sharp\Sem5dz\obj\Debug\net7.0\Sem5dz.csproj.AssemblyReference.cache
+C:\Users\Aleks\Desktop\c-sharp\Sem5dz\obj\Debug\net7.0\Sem5dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleks\Desktop\c-sharp\Sem5dz\obj\Debug\net7.0\Sem5dz.AssemblyInfoInputs.cache
+C:\Users\Aleks\Desktop\c-sharp\Sem5dz\obj\Debug\net7.0\Sem5dz.AssemblyInfo.cs
+C:\Users\Aleks\Desktop\c-sharp\Sem5dz\obj\Debug\net7.0\Sem5dz.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\Desktop\c-sharp\Sem5dz\bin\Debug\net7.0\Sem5dz.exe
+C:\Users\Aleks\Desktop\c-sharp\Sem5dz\bin\Debug\net7.0\Sem5dz.deps.json
+C:\Users\Aleks\Desktop\c-sharp\Sem5dz\bin\Debug\net7.0\Sem5dz.runtimeconfig.json
+C:\Users\Aleks\Desktop\c-sharp\Sem5dz\bin\Debug\net7.0\Sem5dz.dll
+C:\Users\Aleks\Desktop\c-sharp\Sem5dz\bin\Debug\net7.0\Sem5dz.pdb
+C:\Users\Aleks\Desktop\c-sharp\Sem5dz\obj\Debug\net7.0\Sem5dz.dll
+C:\Users\Aleks\Desktop\c-sharp\Sem5dz\obj\Debug\net7.0\refint\Sem5dz.dll
+C:\Users\Aleks\Desktop\c-sharp\Sem5dz\obj\Debug\net7.0\Sem5dz.pdb
+C:\Users\Aleks\Desktop\c-sharp\Sem5dz\obj\Debug\net7.0\Sem5dz.genruntimeconfig.cache
+C:\Users\Aleks\Desktop\c-sharp\Sem5dz\obj\Debug\net7.0\ref\Sem5dz.dll
