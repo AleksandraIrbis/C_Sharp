@@ -1,0 +1,15 @@
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem6dz\bin\Debug\net7.0\Sem6dz.exe
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem6dz\bin\Debug\net7.0\Sem6dz.deps.json
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem6dz\bin\Debug\net7.0\Sem6dz.runtimeconfig.json
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem6dz\bin\Debug\net7.0\Sem6dz.dll
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem6dz\bin\Debug\net7.0\Sem6dz.pdb
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem6dz\obj\Debug\net7.0\Sem6dz.csproj.AssemblyReference.cache
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem6dz\obj\Debug\net7.0\Sem6dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem6dz\obj\Debug\net7.0\Sem6dz.AssemblyInfoInputs.cache
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem6dz\obj\Debug\net7.0\Sem6dz.AssemblyInfo.cs
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem6dz\obj\Debug\net7.0\Sem6dz.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem6dz\obj\Debug\net7.0\Sem6dz.dll
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem6dz\obj\Debug\net7.0\refint\Sem6dz.dll
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem6dz\obj\Debug\net7.0\Sem6dz.pdb
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem6dz\obj\Debug\net7.0\Sem6dz.genruntimeconfig.cache
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem6dz\obj\Debug\net7.0\ref\Sem6dz.dll
