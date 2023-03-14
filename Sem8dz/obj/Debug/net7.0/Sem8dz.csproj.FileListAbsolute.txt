@@ -1,0 +1,15 @@
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem8dz\obj\Debug\net7.0\Sem8dz.csproj.AssemblyReference.cache
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem8dz\obj\Debug\net7.0\Sem8dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem8dz\obj\Debug\net7.0\Sem8dz.AssemblyInfoInputs.cache
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem8dz\obj\Debug\net7.0\Sem8dz.AssemblyInfo.cs
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem8dz\obj\Debug\net7.0\Sem8dz.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem8dz\bin\Debug\net7.0\Sem8dz.exe
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem8dz\bin\Debug\net7.0\Sem8dz.deps.json
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem8dz\bin\Debug\net7.0\Sem8dz.runtimeconfig.json
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem8dz\bin\Debug\net7.0\Sem8dz.dll
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem8dz\bin\Debug\net7.0\Sem8dz.pdb
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem8dz\obj\Debug\net7.0\Sem8dz.dll
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem8dz\obj\Debug\net7.0\refint\Sem8dz.dll
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem8dz\obj\Debug\net7.0\Sem8dz.pdb
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem8dz\obj\Debug\net7.0\Sem8dz.genruntimeconfig.cache
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\Sem8dz\obj\Debug\net7.0\ref\Sem8dz.dll
