@@ -1,0 +1,15 @@
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\BlokDz\obj\Debug\net7.0\BlokDz.csproj.AssemblyReference.cache
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\BlokDz\obj\Debug\net7.0\BlokDz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\BlokDz\obj\Debug\net7.0\BlokDz.AssemblyInfoInputs.cache
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\BlokDz\obj\Debug\net7.0\BlokDz.AssemblyInfo.cs
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\BlokDz\obj\Debug\net7.0\BlokDz.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\BlokDz\bin\Debug\net7.0\BlokDz.exe
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\BlokDz\bin\Debug\net7.0\BlokDz.deps.json
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\BlokDz\bin\Debug\net7.0\BlokDz.runtimeconfig.json
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\BlokDz\bin\Debug\net7.0\BlokDz.dll
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\BlokDz\bin\Debug\net7.0\BlokDz.pdb
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\BlokDz\obj\Debug\net7.0\BlokDz.dll
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\BlokDz\obj\Debug\net7.0\refint\BlokDz.dll
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\BlokDz\obj\Debug\net7.0\BlokDz.pdb
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\BlokDz\obj\Debug\net7.0\BlokDz.genruntimeconfig.cache
+C:\Users\Aleks\Desktop\c-sharp\repa1402\C_Sharp\BlokDz\obj\Debug\net7.0\ref\BlokDz.dll
